@@ -79,4 +79,3 @@ mvn -pl issues/mockwebserver-shutdown-issue rewrite:dryRun
 # Apply the changes for a specific issue
 mvn -pl issues/mockwebserver-shutdown-issue rewrite:run
 ```
-
