@@ -10,6 +10,11 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
+
+META-INF/
+org/
+
+
 # IntelliJ IDEA
 .idea/
 *.iml

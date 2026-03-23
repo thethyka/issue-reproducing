@@ -68,6 +68,9 @@ To easily create a new module for reproducing an issue, follow these steps:
 4. **Add your code:**
    Place the Java file(s) that reproduce the issue into the `src/main/java/...` folder of your new module.
 
+5. **Add your issue.md file:**
+   Following the OpenRewrite issue request structure, create an issue.md file to be pasted when submitting the issue to OpenRewrite.
+
 ## Running OpenRewrite
 
 You can run OpenRewrite by targeting specific modules with `-pl`. This is the recommended pattern to keep isolated dependency graphs and ensure only the expected recipes run:
